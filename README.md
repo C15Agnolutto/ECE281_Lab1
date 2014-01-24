@@ -13,7 +13,7 @@ ECE281_Lab1
 | 1 | 1 | 1 | 0 | 0 | 1 |
 
 ### Test Bench Waveform w/ Actual Values
-![waveform] 
+![waveform] (https://raw2.github.com/C15Agnolutto/ECE281_Lab1/master/Lab1.JPG)
 
 
 ### Analysis
