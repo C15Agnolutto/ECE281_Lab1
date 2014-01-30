@@ -41,6 +41,10 @@ the exhaustive testing of the system. I tested the system by toggling the switch
 verifying that the expected values matched the actual values; I compared them with my truth tables. 
 
 
+### Final Schematic
+![schematic] (https://raw.github.com/C15Agnolutto/ECE281_Lab1/master/Schematic.JPG)
+
+
 ### Constraints File
 ![constraints] (https://raw2.github.com/C15Agnolutto/ECE281_Lab1/master/Constraints.JPG)
 
